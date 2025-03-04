@@ -1,0 +1,139 @@
+{
+    "dream_category": [
+        {
+            "id": 1,
+            "name_unicode": "က",
+            "name_zaw_gyi": "K"
+        },
+        {
+            "id": 2,
+            "name_unicode": "ခ",
+            "name_zaw_gyi": "KH"
+        },
+        {
+            "id": 3,
+            "name_unicode": "ဂ",
+            "name_zaw_gyi": "G"
+        },
+        {
+            "id": 4,
+            "name_unicode": "င",
+            "name_zaw_gyi": "G"
+        },
+        {
+            "id": 5,
+            "name_unicode": "စ",
+            "name_zaw_gyi": "S"
+        },
+        {
+            "id": 6,
+            "name_unicode": "ဆ",
+            "name_zaw_gyi": "S"
+        },
+        {
+            "id": 7,
+            "name_unicode": "ဇ",
+            "name_zaw_gyi": "Z"
+        },
+        {
+            "id": 8,
+            "name_unicode": "ဈ",
+            "name_zaw_gyi": "Z"
+        },
+        {
+            "id": 9,
+            "name_unicode": "ည",
+            "name_zaw_gyi": "N"
+        },
+        {
+            "id": 10,
+            "name_unicode": "တ",
+            "name_zaw_gyi": "T"
+        },
+        {
+            "id": 11,
+            "name_unicode": "ထ",
+            "name_zaw_gyi": "TH"
+        },
+        {
+            "id": 12,
+            "name_unicode": "ဒ",
+            "name_zaw_gyi": "D"
+        },
+        {
+            "id": 13,
+            "name_unicode": "ဓ",
+            "name_zaw_gyi": "D"
+        },
+        {
+            "id": 14,
+            "name_unicode": "န",
+            "name_zaw_gyi": "N"
+        },
+        {
+            "id": 15,
+            "name_unicode": "ပ",
+            "name_zaw_gyi": "P"
+        },
+        {
+            "id": 16,
+            "name_unicode": "ဖ",
+            "name_zaw_gyi": "P"
+        },
+        {
+            "id": 17,
+            "name_unicode": "ဗ",
+            "name_zaw_gyi": "B"
+        },
+        {
+            "id": 18,
+            "name_unicode": "ဘ",
+            "name_zaw_gyi": "B"
+        },
+        {
+            "id": 19,
+            "name_unicode": "မ",
+            "name_zaw_gyi": "M"
+        },
+        {
+            "id": 20,
+            "name_unicode": "ယ",
+            "name_zaw_gyi": "Y"
+        },
+        {
+            "id": 21,
+            "name_unicode": "ရ",
+            "name_zaw_gyi": "Y"
+        },
+        {
+            "id": 22,
+            "name_unicode": "လ",
+            "name_zaw_gyi": "L"
+        },
+        {
+            "id": 23,
+            "name_unicode": "ဝ",
+            "name_zaw_gyi": "W"
+        },
+        {
+            "id": 24,
+            "name_unicode": "သ",
+            "name_zaw_gyi": "T"
+        },
+        {
+            "id": 25,
+            "name_unicode": "ဟ",
+            "name_zaw_gyi": "H"
+        },
+        {
+            "id": 26,
+            "name_unicode": "အ",
+            "name_zaw_gyi": "A"
+        },
+        {
+            "id": 27,
+            "name_unicode": "ဥ",
+            "name_zaw_gyi": "O"
+        }
+    ]
+}
